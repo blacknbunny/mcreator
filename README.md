@@ -6,7 +6,10 @@ Reverse Shell Generator With Techniques To Bypass AV's
 git clone https://github.com/blacknbunny/mcreator.git && cd mcreator/ && python mcreator.py
 ```
 
-## To run mcreator.py
+## Version
+***python 2.7.**** can't be lower or higher than 2.7 cause of the """ syntax in scripts.
+
+## Runnig mcreator
 ```
 python mcreator.py -rsg console
 ```
@@ -22,9 +25,6 @@ https://github.com/blacknbunny/mcreator/wiki/Techniques
 
 ## An example to tool
 https://github.com/blacknbunny/mcreator/wiki/An-example
-
-## Version
-***python 2.7.**** can't be lower or higher than 2.7 cause of the """ syntax in scripts.
 
 ## Help
 ```
