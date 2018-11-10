@@ -1,5 +1,5 @@
 # mcreator
-Reverse Shell Generator With Techniques To Bypass AV's
+Encoded Reverse Shell Generator With Techniques To Bypass AV's
 
 ## Installation
 ```
@@ -9,7 +9,7 @@ git clone https://github.com/blacknbunny/mcreator.git && cd mcreator/ && python 
 ## Version
 ***python 2.7.**** can't be lower or higher than 2.7 cause of the """ syntax in scripts.
 
-## Runnig mcreator
+## Runnig mcreator console
 ```
 python mcreator.py -rsg console
 ```
