@@ -6,13 +6,19 @@ Reverse Shell Generator With Techniques To Bypass AV's
 git clone https://github.com/blacknbunny/mcreator.git && cd mcreator/ && python mcreator.py
 ```
 
-## Usage
+## To run mcreator.py
 ```
 python mcreator.py -rsg console
 ```
 
-## Wiki For (Commands, Reverse Shells, Encode Types, Techniques) and more
-https://github.com/blacknbunny/mcreator/wiki
+## Commands
+https://github.com/blacknbunny/mcreator/wiki/Commands
+
+## Reverse Shells
+https://github.com/blacknbunny/mcreator/wiki/Reverse-Shells
+
+## Techniques
+https://github.com/blacknbunny/mcreator/wiki/Techniques
 
 ## An example to tool
 https://github.com/blacknbunny/mcreator/wiki/An-example
