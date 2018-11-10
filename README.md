@@ -11,7 +11,7 @@ git clone https://github.com/blacknbunny/mcreator.git && cd mcreator/ && python 
 python mcreator.py -rsg console
 ```
 
-## Wiki For (Commands, Reverse Shells, Techniques) and more
+## Wiki For (Commands, Reverse Shells, Encode Types, Techniques) and more
 https://github.com/blacknbunny/mcreator/wiki
 
 ## Version
