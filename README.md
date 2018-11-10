@@ -2,7 +2,7 @@
 Reverse Shell Generator With Techniques To Bypass AV's
 
 ## Wiki
-![](https://github.com/blacknbunny/mcreator/wiki)
+![Wiki](https://github.com/blacknbunny/mcreator/wiki)
 
 ## Installation
 ```
