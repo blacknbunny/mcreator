@@ -14,6 +14,9 @@ python mcreator.py -rsg console
 ## Wiki For (Commands, Reverse Shells, Encode Types, Techniques) and more
 https://github.com/blacknbunny/mcreator/wiki
 
+## An example to tool
+https://github.com/blacknbunny/mcreator/wiki/An-example
+
 ## Version
 ***python 2.7.**** can't be lower or higher than 2.7 cause of the """ syntax in scripts.
 
