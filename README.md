@@ -26,6 +26,9 @@ https://github.com/blacknbunny/mcreator/wiki/Techniques
 ## An example to tool
 https://github.com/blacknbunny/mcreator/wiki/An-example
 
+## Compiling
+https://github.com/blacknbunny/mcreator/wiki/Compiling
+
 ## Help
 ```
 usage: mcreator.py [-h] [-rsg RSGENERATOR]
