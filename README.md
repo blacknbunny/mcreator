@@ -33,7 +33,7 @@ https://github.com/blacknbunny/mcreator/wiki/An-example
 ```
 usage: mcreator.py [-h] [-rsg RSGENERATOR]
 
-Reverse Shell & Injector generator with techniques to bypass all the AV's
+Reverse Shell generator with techniques to bypass all the AV's
 
 optional arguments:
   -h, --help            show this help message and exit
