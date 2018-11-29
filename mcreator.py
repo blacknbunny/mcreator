@@ -144,4 +144,4 @@ if __name__ == '__main__':
     try:
         exit(main())
     except KeyboardInterrupt as e:
-        print("C^")
+        print("^C")
