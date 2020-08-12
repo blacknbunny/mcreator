@@ -1,5 +1,5 @@
 # mcreator
-Encoded Reverse Shell Generator With NSA Techniques To Bypass AV's
+Encoded Reverse Shell Generator With Techniques To Bypass AV's
 
 ## Installation
 ```
